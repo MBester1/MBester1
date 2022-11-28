@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MBester1
-- 👀 I’m interested in jazz and music production
-- 🌱 I’m currently learning Javascript and PHP
-- 💞️ I’m looking to collaborate on simple Web dev projects
+- 👀 I play jazz guitar and enjoy music production
+- 🌱 I’m currently learning the MEVN stack
+- 💞️ I’m looking to collaborate on Web dev projects
 - 📫 How to reach me: michaelbesterguitar@gmail.com
 
 <!---
